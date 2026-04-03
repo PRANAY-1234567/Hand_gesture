@@ -71,7 +71,6 @@ while True:
             elif fingers_up not in [1,2,3]:
                 last_alert = None
 
-
     cv2.imshow('Hand Gesture',frame)
     key = cv2.waitKey(1) & 0xFF
     if key == 27 or key == ord('q'):
