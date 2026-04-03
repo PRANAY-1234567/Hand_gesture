@@ -2,6 +2,8 @@ import cv2
 import mediapipe as mp
 import pygame
 
+
+
 mp_hands = mp.solutions.hands
 mp_drawing = mp.solutions.drawing_utils
 
