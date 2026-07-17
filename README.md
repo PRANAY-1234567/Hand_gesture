@@ -1,4 +1,3 @@
-
 # Hand Gesture Controlled Audio Alert System
 
 ## 📌 Overview
